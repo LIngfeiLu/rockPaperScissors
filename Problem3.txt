@@ -1,0 +1,31 @@
+A99070381
+cs12snm
+Zhiyu Mao
+HW 1 Part3
+
+1. False
+2. False
+3. False
+4. True
+5. True
+6. False
+7. False
+8. False
+9. False
+10. True
+11. True
+12. True
+13. False
+14. True
+15. False
+16. False
+17. False
+18. False
+19. True
+20. True
+21. True
+22. False
+23. False
+24. False
+25. False
+
